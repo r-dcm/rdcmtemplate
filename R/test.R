@@ -1,7 +1,7 @@
 #' Test function
-#' 
+#'
 #' @section Heading 1:
-#' 
+#'
 #' Lorem ipsum odor amet, consectetuer adipiscing elit. Dolor urna iaculis
 #' cubilia elit facilisis. Cursus augue cursus; quam amet mus convallis
 #' venenatis auctor. Hendrerit feugiat vestibulum mattis penatibus ipsum? Quam
@@ -10,22 +10,22 @@
 #' fermentum habitasse tempus tortor enim fringilla. Congue morbi mauris donec
 #' semper himenaeos nostra venenatis penatibus. Suspendisse morbi urna finibus
 #' rhoncus nullam ultricies litora magna.
-#' 
+#'
 #' Curabitur torquent est vitae, tristique orci lacinia eros varius nam. Turpis
 #' turpis sollicitudin id cras semper luctus porttitor. Duis senectus nascetur
 #' sed molestie etiam posuere facilisis posuere. Tincidunt platea neque
 #' ullamcorper a mus netus. Pretium sollicitudin vel himenaeos eget; commodo
 #' sodales tortor. Nisi dolor montes penatibus eu duis viverra taciti.
-#' 
+#'
 #' ## Heading 2a
-#' 
+#'
 #' Lorem ipsum odor amet, consectetuer adipiscing elit. Inceptos semper mus
 #' tempor maecenas dui nisi eu. Facilisi ipsum curae inceptos gravida egestas
 #' lorem mus. Hac torquent sit dui; lectus porttitor facilisi. Est vitae
 #' malesuada tempus himenaeos enim mus. Fermentum id suspendisse sagittis arcu
 #' integer eget viverra hendrerit. Nam massa quam id inceptos netus praesent.
 #' Maximus quisque elementum ad vitae donec; mauris montes nibh.
-#' 
+#'
 #' In platea class sit lacinia posuere dignissim. Dictumst aliquam nascetur erat
 #' ac orci. Senectus potenti feugiat euismod sapien dignissim facilisis enim.
 #' Scelerisque imperdiet maecenas integer cubilia inceptos malesuada nascetur.
@@ -33,7 +33,7 @@
 #' congue; convallis montes viverra vel habitasse. Ex egestas dignissim hac
 #' vitae purus ex. Ad metus ultrices id, aptent tellus cras laoreet tellus. Mus
 #' varius risus suspendisse ad est fermentum turpis.
-#' 
+#'
 #' Quisque habitasse auctor convallis metus duis quis nec vehicula. Habitasse
 #' nascetur faucibus lacus nullam magna sollicitudin conubia tellus congue. Nisi
 #' cubilia feugiat magnis purus elit lectus faucibus. Vel tristique pretium;
@@ -42,16 +42,16 @@
 #' eleifend habitasse erat. Integer maximus aenean consectetur tincidunt sodales
 #' facilisi quam felis. Urna senectus lacinia himenaeos nisi himenaeos ante
 #' taciti malesuada.
-#' 
+#'
 #' ## Heading 2b
-#' 
+#'
 #' Lorem ipsum odor amet, consectetuer adipiscing elit. Inceptos semper mus
 #' tempor maecenas dui nisi eu. Facilisi ipsum curae inceptos gravida egestas
 #' lorem mus. Hac torquent sit dui; lectus porttitor facilisi. Est vitae
 #' malesuada tempus himenaeos enim mus. Fermentum id suspendisse sagittis arcu
 #' integer eget viverra hendrerit. Nam massa quam id inceptos netus praesent.
 #' Maximus quisque elementum ad vitae donec; mauris montes nibh.
-#' 
+#'
 #' In platea class sit lacinia posuere dignissim. Dictumst aliquam nascetur erat
 #' ac orci. Senectus potenti feugiat euismod sapien dignissim facilisis enim.
 #' Scelerisque imperdiet maecenas integer cubilia inceptos malesuada nascetur.
@@ -59,7 +59,7 @@
 #' congue; convallis montes viverra vel habitasse. Ex egestas dignissim hac
 #' vitae purus ex. Ad metus ultrices id, aptent tellus cras laoreet tellus. Mus
 #' varius risus suspendisse ad est fermentum turpis.
-#' 
+#'
 #' Quisque habitasse auctor convallis metus duis quis nec vehicula. Habitasse
 #' nascetur faucibus lacus nullam magna sollicitudin conubia tellus congue. Nisi
 #' cubilia feugiat magnis purus elit lectus faucibus. Vel tristique pretium;
@@ -68,9 +68,9 @@
 #' eleifend habitasse erat. Integer maximus aenean consectetur tincidunt sodales
 #' facilisi quam felis. Urna senectus lacinia himenaeos nisi himenaeos ante
 #' taciti malesuada.
-#' 
+#'
 #' @param x A value
 #' @return Nothing
 test <- function(x = 1) {
-  
+
 }

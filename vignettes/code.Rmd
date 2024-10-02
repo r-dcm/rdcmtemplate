@@ -100,5 +100,4 @@ render_rmarkdown <- function(pkg, input, output, ..., copy_images = TRUE, quiet 
 
   invisible(path)
 }
-
 ```
