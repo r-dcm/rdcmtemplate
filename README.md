@@ -6,12 +6,17 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/r-dcm/rdcmtemplate/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/r-dcm/rdcmtemplate/actions/workflows/R-CMD-check.yaml)
+[![Check
+accessibility](https://img.shields.io/badge/check-accessibility-orange.svg)](https://wave.webaim.org/report#/https://rdcmtemplate.r-dcm.org)
 <!-- badges: end -->
 
 ## Overview
 
 rdcmtemplate provides a custom [pkgdown](https://pkgdown.r-lib.org)
 template for r-dcm packages. Please don’t use it for your own package.
+
+This package and template were inspired by
+[tidytemplate](https://github.com/tidyverse/tidytemplate).
 
 ## Templates
 
@@ -43,7 +48,7 @@ checklist to make sure everything is up to date:
 
 ``` md
 * [ ] `usethis::use_pkgdown_github_pages()`
-* [ ] Ensure Author includes University of Kansas as copyright holder and funder
+* [ ] Ensure Author includes University of Kansas as copyright holder
 * [ ] Update `DESCRIPTION` to include `Config/Needs/website: r-dcm/rdcmtemplate`
 * [ ] Update `_pkgdown.yml` with appropriate template above.
 * [ ] Ping Jake to add goat counter record
