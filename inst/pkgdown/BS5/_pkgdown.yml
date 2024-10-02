@@ -1,0 +1,44 @@
+template:
+  bslib:
+    light-switch: false
+    primary: "#D7263D"
+    bg: "#FFFFFF"
+    fg: "#333"
+    base_font: {google: {family: "Open Sans", wght: [400, 600], ital: [0, 1]}}
+    heading_font: {google: {family: "Playfair Display", wght: [400, 600], ital: [0, 1]}}
+    code_font: {google: "Fira Code"}
+    font_scale: 1.2
+    border-radius: 0
+    btn-border-radius: 3px
+    grid-gutter-width: 3rem
+    pkgdown-nav-height: 78px
+
+code:
+  width: 74
+
+navbar:
+  type: light
+  bg: none
+
+authors:
+  footer:
+    roles: [cre]
+  sidebar:
+    roles: [aut]
+  
+  Institute of Education Sciences:
+    href: https://ies.ed.gov
+    html: >-
+      <img src='https://r-dcm.org/assets/img/funding/ies.svg' alt='Institute of Education Sciences' width='400' style="margin-bottom: 38px;" />
+  Accessible Teaching, Learning, and Assessment Systems:
+    href: https://atlas.ku.edu
+    html: >-
+      <img src='https://r-dcm.org/assets/img/funding/atlas.svg' alt='Accessible Teaching, Learning, and Assessment Systems' width='400' style="margin-bottom: 30px;" />
+  University of Kansas:
+    href: https://www.ku.edu
+    html: >-
+      <img src='https://r-dcm.org/assets/img/funding/ku.jpg' alt='University of Kansas' width='400' style="margin-bottom: 77px;" />
+  
+
+  W. Jake Thompson:
+    href: https://wjakethompson.com

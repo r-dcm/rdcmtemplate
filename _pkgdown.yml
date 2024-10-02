@@ -1,0 +1,17 @@
+template:
+  package: rdcmtemplate
+  bootstrap: 5
+
+url: https://rdcmtemplate.r-dcm.org
+
+articles:
+- title: Get started
+  navbar: ~
+  contents:
+  - bullets
+  
+- title: Dropdown heading
+  navbar: Dropdown heading
+  contents:
+  - code
+  - headings

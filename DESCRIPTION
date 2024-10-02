@@ -1,0 +1,28 @@
+Package: rdcmtemplate
+Title: 'pkgdown' Templates for Core 'r-dcm' Packages
+Version: 1.0.0
+Authors@R: c(
+    person("W. Jake", "Thompson", , "wjakethompson@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-7339-0300")),
+    person("Institute of Education Sciences", role = "fnd"),
+    person("Accessible Teaching, Learning, and Assessment Systems", role = "fnd"),
+    person("University of Kansas", role = c("cph"))
+  )
+Description: This is a private template for use by core r-dcm packages.
+    Please don't use for your own code.
+License: MIT + file LICENSE
+URL: https://github.com/r-dcm/rdcmtemplate, https://rdcmtemplate.r-dcm.org
+BugReports: https://github.com/r-dcm/rdcmtemplate/issues
+Imports: 
+    tidytemplate (>= 1.0.0)
+Suggests: 
+    knitr,
+    rmarkdown
+Remotes:
+    tidyverse/tidytemplate
+VignetteBuilder: 
+    knitr
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
