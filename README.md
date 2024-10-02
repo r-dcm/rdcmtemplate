@@ -1,10 +1,11 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# rdcmtemplate <img src="man/figures/logo.png" align="right" alt="Package hex logo"/>
+# rdcmtemplate <a href="https://rdcmtemplate.r-dcm.org"><img src="man/figures/logo.png" align="right" height="138" alt="Package hex logo" /></a>
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/r-dcm/rdcmtemplate/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/r-dcm/rdcmtemplate/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 ## Overview
