@@ -17,6 +17,8 @@ Imports:
     tidytemplate (>= 1.0.0)
 Suggests: 
     knitr,
+    kableExtra,
+    ggplot2,
     rmarkdown
 Remotes:
     tidyverse/tidytemplate
