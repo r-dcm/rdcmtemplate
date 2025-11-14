@@ -1,11 +1,12 @@
 pandoc: 3.1.11
-pkgdown: 2.1.1
+pkgdown: 2.2.0
 pkgdown_sha: ~
 articles:
   bullets: bullets.html
   code: code.html
   headings: headings.html
-last_built: 2025-01-08T18:27Z
+  tables-figures: tables-figures.html
+last_built: 2025-11-14T16:53Z
 urls:
   reference: https://rdcmtemplate.r-dcm.org/reference
   article: https://rdcmtemplate.r-dcm.org/articles
