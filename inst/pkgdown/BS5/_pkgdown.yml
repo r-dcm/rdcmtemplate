@@ -13,6 +13,9 @@ template:
     grid-gutter-width: 3rem
     pkgdown-nav-height: 78px
 
+development:
+  mode: auto
+
 code:
   width: 74
 
