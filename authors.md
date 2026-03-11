@@ -22,14 +22,14 @@
 Source:
 [`DESCRIPTION`](https://github.com/r-dcm/rdcmtemplate/blob/main/DESCRIPTION)
 
-Thompson W (2025). *rdcmtemplate: 'pkgdown' Templates for Core 'r-dcm'
+Thompson W (2026). *rdcmtemplate: 'pkgdown' Templates for Core 'r-dcm'
 Packages*. R package version 1.0.0,
 <https://github.com/r-dcm/rdcmtemplate>.
 
     @Manual{,
       title = {rdcmtemplate: 'pkgdown' Templates for Core 'r-dcm' Packages},
       author = {W. Jake Thompson},
-      year = {2025},
+      year = {2026},
       note = {R package version 1.0.0},
       url = {https://github.com/r-dcm/rdcmtemplate},
     }
