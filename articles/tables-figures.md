@@ -11,6 +11,7 @@ vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra
 inceptos himenaeos.
 
 ``` r
+
 library(kableExtra)
 
 head(penguins) |>
@@ -28,7 +29,7 @@ head(penguins) |>
 | Adelie  | Torgersen |     36.7 |     19.3 |         193 |      3450 | female | 2007 |
 | Adelie  | Torgersen |     39.3 |     20.6 |         190 |      3650 | male   | 2007 |
 
-Here is a table caption
+Here is a table caption {.table}
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus
 ex sapien vitae pellentesque sem placerat. In id cursus mi pretium
@@ -49,6 +50,7 @@ vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra
 inceptos himenaeos.
 
 ``` r
+
 library(ggplot2)
 
 ggplot(penguins, aes(x = flipper_len, y = bill_len)) +
