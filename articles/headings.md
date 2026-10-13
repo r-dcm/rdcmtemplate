@@ -167,3 +167,12 @@ nunc sed. Purus non enim praesent elementum facilisis leo vel fringilla.
 Consectetur libero id faucibus nisl tincidunt. Massa enim nec dui nunc
 mattis enim ut tellus elementum. Turpis tincidunt id aliquet risus
 feugiat in ante metus.
+
+## Appendix
+
+Sections marked with `{.appendix}` are set apart from the main content
+with a top border and smaller text. This is useful for references,
+acknowledgments, or session information at the end of an article.
+
+Lacus viverra vitae congue eu consequat ac felis. Nisi lacus sed viverra
+tellus in hac habitasse platea dictumst.
