@@ -395,3 +395,34 @@ p.caption {
   text-align: left;
   font-size: 80%;
 }
+
+// Appendices ------------------------------------------------------------------
+// pkgdown renders articles with Quarto's `minimal: true`, which drops Quarto's
+// own appendix styling. Recreate it for sections marked with `{.appendix}`.
+
+main {
+  section.appendix,
+  div.section.appendix {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid $faint-border;
+    font-size: 0.875em;
+
+    > h2,
+    > h3 {
+      @include font-size(1.2rem);
+      margin-top: 0;
+      font-weight: 600;
+      opacity: 0.9;
+    }
+
+    // Bibliography entries
+    .csl-entry {
+      margin-bottom: 0.5rem;
+    }
+
+    > :last-child {
+      margin-bottom: 0;
+    }
+  }
+}

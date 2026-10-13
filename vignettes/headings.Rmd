@@ -62,3 +62,9 @@ Vulputate dignissim suspendisse in est ante in nibh mauris. Tellus cras adipisci
 
 
 Vulputate dignissim suspendisse in est ante in nibh mauris. Tellus cras adipiscing enim eu turpis egestas pretium aenean. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Semper risus in hendrerit gravida rutrum quisque non tellus orci. Integer malesuada nunc vel risus commodo viverra. Justo donec enim diam vulputate ut pharetra sit. Semper quis lectus nulla at volutpat diam. Ipsum consequat nisl vel pretium lectus quam id leo in. Ac odio tempor orci dapibus ultrices in iaculis nunc sed. Purus non enim praesent elementum facilisis leo vel fringilla. Consectetur libero id faucibus nisl tincidunt. Massa enim nec dui nunc mattis enim ut tellus elementum. Turpis tincidunt id aliquet risus feugiat in ante metus.
+
+## Appendix {.appendix}
+
+Sections marked with `{.appendix}` are set apart from the main content with a top border and smaller text. This is useful for references, acknowledgments, or session information at the end of an article.
+
+Lacus viverra vitae congue eu consequat ac felis. Nisi lacus sed viverra tellus in hac habitasse platea dictumst.
